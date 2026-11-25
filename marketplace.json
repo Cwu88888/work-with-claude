@@ -1,0 +1,13 @@
+{
+  "name": "work-with-claude",
+  "owner": {
+    "name": "work-with-claude"
+  },
+  "plugins": [
+    {
+      "name": "work-with-claude",
+      "source": "./mods/work-with-claude",
+      "description": "Work With Claude: a pixel-art orange Clawd pet that works alongside Claude. It reads a book in sunglasses when idle, types while Claude works, celebrates when a turn finishes, and waves a '!' when it needs your approval. Optional draggable desktop companion with a chat box."
+    }
+  ]
+}
